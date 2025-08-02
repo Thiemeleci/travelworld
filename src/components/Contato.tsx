@@ -24,7 +24,7 @@ const Contato: React.FC = () => {
     {
       icon: MapPin,
       titulo: 'Endereço',
-      info: 'Av. Paulista, 1000 - São Paulo/SP',
+      info: 'New York, 1000',
       descricao: 'CEP: 01310-100'
     },
     {
